@@ -45,9 +45,9 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
 [Fahrlehrer24 - IOS](https://apps.apple.com/in/app/fahrlehrer24-driving-school/id468341446)
 [Fahrlehrer24 - Android](https://play.google.com/store/apps/details?id=com.tigerlab.fahrlehrer&hl=en_IN&gl=US)
   
-Ickebord - In Development
+Ickebord - In Progress
   
-Buddy Bet - In Development
+Buddy Bet - In Progress
   
   <td valign="top" width="50%">
   
