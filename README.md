@@ -17,12 +17,10 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
 
 <br/>
 
-#### Languages
+#### Languages , Tools and Frameworks
 <img src="https://github.com/deepikadt/Assets/blob/main/java_image.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/deepikadt/Assets/blob/main/kotlin_image.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/deepikadt/Assets/blob/main/dart_image.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Tools and Frameworks
 <img src="https://github.com/deepikadt/Assets/blob/main/android_image.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/deepikadt/Assets/blob/main/flutter.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/deepikadt/Assets/blob/main/git_image.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
