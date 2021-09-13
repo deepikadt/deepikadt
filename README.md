@@ -11,8 +11,6 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
   <img alt="Deepika's Linkdein" height="20" src="https://github.com/deepikadt/Assets/blob/main/twitter.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
-<br/>
-<br/>
 
 #### Languages , Tools and Frameworks
 <img src="https://github.com/deepikadt/Assets/blob/main/java_image.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,13 +22,11 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
 <img src="https://github.com/deepikadt/Assets/blob/main/firebase.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
-<br/>
 
  <a href="https://github.com/deepikadt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadt&theme=light&hide_langs_below=1" />
 </a>
 
-<br/>
 <br/>
 
 <table><tr><td valign="top" width="50%">
@@ -60,10 +56,3 @@ Buddy Bet - In Progress
   
 [Lessons from one year of gratefulness](https://medium.com/@deepikatripathi/lessons-from-one-year-of-gratefulness-e156cdb88ab0) 
 </table>
-  
- 
-<br/>
-<br/>
-  
-
-  
