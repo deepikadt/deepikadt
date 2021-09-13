@@ -2,11 +2,6 @@
 
 A Software Engineer who loves to build apps using Flutter and Android from Noida, India. 
 
-<a href="https://github.com/deepikadt">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadt&theme=light&hide_langs_below=1" />
-</a>
-
-
 ##### Reach out to me at
 <a href="https://www.linkedin.com/in/deepika-dt/">
   <img alt="Deepika's Twitter" height="20" src="https://github.com/deepikadt/Assets/blob/main/linkedin.png" />
@@ -59,4 +54,13 @@ Buddy Bet - In Progress
   
 [Lessons from one year of gratefulness](https://medium.com/@deepikatripathi/lessons-from-one-year-of-gratefulness-e156cdb88ab0) 
 </table>
+  
+ 
+<br/>
+<br/>
+  
+ <a href="https://github.com/deepikadt">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadt&theme=light&hide_langs_below=1" />
+</a>
+
   
