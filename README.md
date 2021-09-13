@@ -26,6 +26,12 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
 <br/>
 <br/>
 
+ <a href="https://github.com/deepikadt">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadt&theme=light&hide_langs_below=1" />
+</a>
+
+<br/>
+<br/>
 
 <table><tr><td valign="top" width="50%">
   
@@ -59,8 +65,5 @@ Buddy Bet - In Progress
 <br/>
 <br/>
   
- <a href="https://github.com/deepikadt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadt&theme=light&hide_langs_below=1" />
-</a>
 
   
