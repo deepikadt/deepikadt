@@ -1,10 +1,11 @@
+## Hey, I'm Deepika Tripathi! 🙋🏻‍♀️ 
+
+A Software Engineer who loves to build apps using Flutter and Android from Noida, India. 
+
 <a href="https://github.com/deepikadt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikadt&theme=light&hide_langs_below=1" />
 </a>
 
-## Hey, I'm Deepika Tripathi! 🙋🏻‍♀️ 
-
-A Software Engineer who loves to build apps using Flutter and Android from Noida, India. 
 
 ##### Reach out to me at
 <a href="https://www.linkedin.com/in/deepika-dt/">
