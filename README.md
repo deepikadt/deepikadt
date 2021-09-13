@@ -29,7 +29,7 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
 
 <br/>
 
-<table><tr><td valign="top" width="50%">
+<table align="right"><tr><td valign="top" width="50%">
   
 ## Projects
   
