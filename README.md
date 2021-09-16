@@ -3,7 +3,7 @@
 A Software Engineer who loves to build apps using Flutter and Android from Noida, India. 
 
 ##### Reach out to me at
-<a href="https://www.linkedin.com/in/deepikadt/">
+<a href="https://www.linkedin.com/in/deepika-dt/">
   <img alt="Deepika's Linkedin" height="20" src="https://github.com/deepikadt/Assets/blob/main/linkedin.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
