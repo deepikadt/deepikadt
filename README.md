@@ -1,6 +1,6 @@
 ## Hey, I'm Deepika Tripathi! 🙋🏻‍♀️ 
 
-A Software Engineer who loves to build apps using Flutter and Android from Noida, India. 
+A Software Engineer who loves to build apps using Flutter and Android from India. 
 
 ##### Reach out to me at
 <a href="https://www.linkedin.com/in/deepika-dt/">
@@ -48,6 +48,8 @@ A Software Engineer who loves to build apps using Flutter and Android from Noida
   
 [Buddy Bet - Android](https://play.google.com/store/apps/details?id=com.buddybet.client&hl=en&gl=US&showAllReviews=true)
 [Buddy Bet - IOS](https://apps.apple.com/au/app/buddybet/id1525172529)
+  
+[ OLA Electric - Android ] 
   
   <td valign="top" width="50%">
   
