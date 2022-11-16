@@ -49,7 +49,11 @@ A Software Engineer who loves to build apps using Flutter and Android from India
 [Buddy Bet - Android](https://play.google.com/store/apps/details?id=com.buddybet.client&hl=en&gl=US&showAllReviews=true)
 [Buddy Bet - IOS](https://apps.apple.com/au/app/buddybet/id1525172529)
   
-[ OLA Electric - Android ] 
+[ OLA Electric - Android App link ] 
+
+[ Tokopedia - Android App link ]
+
+[ Expedia - Android App link ]
   
   <td valign="top" width="50%">
   
