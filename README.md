@@ -7,7 +7,7 @@ A Software Engineer who loves to build apps using Flutter and Android from India
   <img alt="Deepika's Linkedin" height="20" src="https://github.com/deepikadt/Assets/blob/main/linkedin.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/deepikadt_">
+<a href="https://twitter.com/dtechify">
   <img alt="Deepika's Twitter" height="20" src="https://github.com/deepikadt/Assets/blob/main/twitter.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
