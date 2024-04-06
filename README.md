@@ -49,11 +49,11 @@ A Software Engineer who loves to build apps using Flutter and Android from India
 [Buddy Bet - Android](https://play.google.com/store/apps/details?id=com.buddybet.client&hl=en&gl=US&showAllReviews=true)
 [Buddy Bet - IOS](https://apps.apple.com/au/app/buddybet/id1525172529)
   
-[ OLA Electric - Android App link ] 
+[ OLA Electric - Feature development ] 
 
-[ Tokopedia - Android App link ]
+[ Tokopedia - Payments team ]
 
-[ Expedia - Android App link ]
+[ Expedia - Insurance and Assurance features, Checkout ]
   
   <td valign="top" width="50%">
   
@@ -61,5 +61,5 @@ A Software Engineer who loves to build apps using Flutter and Android from India
   
 [Orientation and Multiple Screen support in Flutter](https://medium.com/@deepikatripathi/orientation-and-multiple-screen-support-in-flutter-37a0a8eba55)
   
-[Lessons from one year of gratefulness](https://medium.com/@deepikatripathi/lessons-from-one-year-of-gratefulness-e156cdb88ab0) 
+[Android: Mobile to Web View communication]() 
 </table>
