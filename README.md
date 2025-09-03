@@ -1,4 +1,4 @@
-## Hey, I'm Deepika Tripathi! 🙋🏻‍♀️ 
+## Hey, I'm Deepika! 🙋🏻‍♀️ 
 
 A Software Engineer who loves to build apps using Flutter and Android from India. 
 
