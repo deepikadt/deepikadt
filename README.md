@@ -49,9 +49,9 @@ A Software Engineer who loves to build apps using Flutter and Android from India
 [Buddy Bet - Android](https://play.google.com/store/apps/details?id=com.buddybet.client&hl=en&gl=US&showAllReviews=true)
 [Buddy Bet - IOS](https://apps.apple.com/au/app/buddybet/id1525172529)
   
-[ OLA Electric - Feature development ] 
+[ OLA Electric - Android E-Bike App ] 
 
-[ Tokopedia - Payments team ]
+[ Tokopedia - Payments ]
 
 [ Expedia - Insurance and Assurance features, Checkout ]
   
