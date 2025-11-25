@@ -61,7 +61,6 @@ A Software Engineer who loves to build apps using Flutter and Android from India
   
 [Orientation and Multiple Screen support in Flutter](https://medium.com/@deepikatripathi/orientation-and-multiple-screen-support-in-flutter-37a0a8eba55)
   
-[Android: Mobile to Web View communication]() 
 </table>
 
 ## 🚀 
