@@ -62,3 +62,8 @@ A Software Engineer who loves to build apps using Flutter and Android from India
 [Orientation and Multiple Screen support in Flutter](https://medium.com/@deepikatripathi/orientation-and-multiple-screen-support-in-flutter-37a0a8eba55)
   
 </table>
+
+## 🚀 
+<div align="center">
+  <a href="https://leetcode.com/deepikadt/"><img src="https://leetcard.jacoblin.cool/deepikadt?theme=dark" width="400" /></a>
+</div>
