@@ -33,27 +33,7 @@ A Software Engineer who loves to build apps using Flutter and Android from India
   
 ## Projects
   
-[Pixalive - Android ](https://play.google.com/store/apps/details?id=com.pixalive)
-  
-[Pink Plate - IOS](https://appadvice.com/app/pink-plate/1500373107) 
-[Pink Plate - Android](https://play.google.com/store/apps/details?id=com.pink_plate) 
-  
-[Pace Hse - IOS](https://play.google.com/store/apps/details?id=com.teknobuilt.pace_hse)
-[Pace Hse - Android](https://play.google.com/store/apps/details?id=com.teknobuilt.pace_hse)
-  
-[Fahrlehrer24 - IOS](https://apps.apple.com/in/app/fahrlehrer24-driving-school/id468341446)
-[Fahrlehrer24 - Android](https://play.google.com/store/apps/details?id=com.tigerlab.fahrlehrer&hl=en_IN&gl=US)
-  
-[Ickebord - Android](https://play.google.com/store/apps/details?id=com.ickebord.ariana&showAllReviews=true)
-  
-[Buddy Bet - Android](https://play.google.com/store/apps/details?id=com.buddybet.client&hl=en&gl=US&showAllReviews=true)
-[Buddy Bet - IOS](https://apps.apple.com/au/app/buddybet/id1525172529)
-  
-[ OLA Electric - Android E-Bike App ] 
-
-[ Tokopedia - Payments ]
-
-[ Expedia - Insurance and Assurance features, Checkout ]
+[Sample Project - Android ](https://google.com)
   
   <td valign="top" width="50%">
   
