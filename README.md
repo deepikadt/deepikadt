@@ -33,7 +33,7 @@ A Software Engineer who loves to build apps using Flutter and Android from India
   
 ## Projects
   
-[Sample Project - Android ](https://google.com)
+[Sample Project - Android ](https://github.com/deepikadt)
   
   <td valign="top" width="50%">
   
