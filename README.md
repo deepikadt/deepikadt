@@ -1,6 +1,6 @@
 ## Hey, I'm Deepika! 🙋🏻‍♀️ 
 
-A Software Engineer who loves to build apps using Flutter and Android from India. 
+A Software Engineer with 6+ years of experience building apps using Android / Flutter
 
 ##### Reach out to me at
 <a href="https://www.linkedin.com/in/deepika-dt/">
